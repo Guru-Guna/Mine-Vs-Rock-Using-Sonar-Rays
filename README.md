@@ -258,7 +258,7 @@ loaded_model = pickle.load(open('minevsrock.sav', 'rb'))
 ![Machine Learning Algorithm for Accuracy](https://github.com/Guru-Guna/Mine-Vs-Rock-Using-Sonar-Rays/assets/93427255/72ad7a27-bd14-4ddb-b29c-445fd1c6cd23)
 
 ## Result
-
+The project successfully developed a mine vs rock prediction system using sonar data. Through machine learning algorithms, the system demonstrated accurate classification of underwater objects into mines or rocks based on features extracted from sonar signals. This achievement holds potential for enhancing underwater security and navigation by effectively distinguishing between these two types of objects.
 
 
 
