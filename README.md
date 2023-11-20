@@ -246,5 +246,22 @@ pickle.dump(model,open(filename,'wb'))
 loaded_model = pickle.load(open('minevsrock.sav', 'rb'))
 ```
 
+## Output
+- Varying Number of Neighbours
+![image](https://github.com/Guru-Guna/Mine-Vs-Rock-Using-Sonar-Rays/assets/93427255/ddfc9f6e-f4f9-4206-a9c9-67ac6dceaeb2)
+- Logistic Regression Accuracy Testing
+![image](https://github.com/Guru-Guna/Mine-Vs-Rock-Using-Sonar-Rays/assets/93427255/1ffc1803-4616-464a-b3b8-34974e69a293)
+- Simple Cross Tabulation
+ ![Simple Crosstab](https://github.com/Guru-Guna/Mine-Vs-Rock-Using-Sonar-Rays/assets/93427255/85875f72-8e18-43cd-a0f8-979a3ce95bf2)
+- MACHINE LEARNING ALGORITHM APLLIED CHECK OUT ACCURACY 
+![Machine Learning Algorithm for Accuracy](https://github.com/Guru-Guna/Mine-Vs-Rock-Using-Sonar-Rays/assets/93427255/72ad7a27-bd14-4ddb-b29c-445fd1c6cd23)
+
+## Result
+
+
+
+
+
+
 
 
